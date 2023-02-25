@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3 {
@@ -15,10 +16,28 @@ header h2 {
   background-image: linear-gradient(#CEC8FF, white);
   padding: 20px 0; }
 =======
+=======
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+>>>>>>> 5511ce1d6cdb50d3cd64a291bb644d0f3cedce04
 .site-footer{
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
+<<<<<<< HEAD
 >>>>>>> a7a4451 (contactus)
 
 .jumbotron {
@@ -65,6 +84,23 @@ a, a:hover {
   background-color: #901CAD;
   color: white; }
 =======
+=======
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+>>>>>>> 5511ce1d6cdb50d3cd64a291bb644d0f3cedce04
     background-color: #901CAD;
 }
 
@@ -85,5 +121,9 @@ a, a:hover {
 
 .carousel {
     border: solid #5637DD;
+<<<<<<< HEAD
 }
 >>>>>>> 476b26d (carousel)
+=======
+}
+>>>>>>> 5511ce1d6cdb50d3cd64a291bb644d0f3cedce04
