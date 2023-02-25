@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
   font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3 {
@@ -11,34 +10,9 @@ h2 {
 header h2 {
   color: #CEC8FF; }
 
-<<<<<<< HEAD
 .site-footer {
   background-image: linear-gradient(#CEC8FF, white);
   padding: 20px 0; }
-=======
-=======
-    font-family: "Open Sans", sans-serif;
-}
-
-h1, h2, h3 {
-    font-family: "Lobster", cursive;
-}
-
-h2 {
-    color: #3046C5;
-}
-
-header h2 {
-    color: #CEC8FF;
-}
-
->>>>>>> 5511ce1d6cdb50d3cd64a291bb644d0f3cedce04
-.site-footer{
-    background-image: linear-gradient(#CEC8FF, white);
-    padding: 20px 0;
-}
-<<<<<<< HEAD
->>>>>>> a7a4451 (contactus)
 
 .jumbotron {
   margin: 0;
@@ -52,7 +26,6 @@ header h2 {
   min-height: 200px; }
 
 .navbar {
-<<<<<<< HEAD
   background-color: #901CAD; }
 
 .tab-content {
@@ -83,47 +56,3 @@ a, a:hover {
 #loginModal .modal-header {
   background-color: #901CAD;
   color: white; }
-=======
-=======
-
-.jumbotron {
-    margin: 0;
-    padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
-    color: white;
-}
-
-.row-content {
-    padding: 50px 0;
-    border-bottom: 1px ridge;
-    min-height: 200px;
-}
-
-.navbar {
->>>>>>> 5511ce1d6cdb50d3cd64a291bb644d0f3cedce04
-    background-color: #901CAD;
-}
-
-.tab-content {
-    border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
-}
-
-a, a:hover {
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .carousel-caption {
-    background-color: rgba(0, 0, 0, 0.5);
-}
-
-.carousel {
-    border: solid #5637DD;
-<<<<<<< HEAD
-}
->>>>>>> 476b26d (carousel)
-=======
-}
->>>>>>> 5511ce1d6cdb50d3cd64a291bb644d0f3cedce04
