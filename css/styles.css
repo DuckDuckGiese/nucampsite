@@ -10,9 +10,16 @@ h2 {
 header h2 {
   color: #CEC8FF; }
 
+<<<<<<< HEAD
 .site-footer {
   background-image: linear-gradient(#CEC8FF, white);
   padding: 20px 0; }
+=======
+.site-footer{
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
+>>>>>>> a7a4451 (contactus)
 
 .jumbotron {
   margin: 0;
